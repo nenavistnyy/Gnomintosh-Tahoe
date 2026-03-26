@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot From 2026-03-26 22-35-47" src="https://github.com/user-attachments/assets/874fea1d-1b2d-4b52-9ab6-852f2b8bffa4" />
+
+
 Take the extension settings shown in the picture.
 Download the theme and icons and unzip them, then go to the terminal and type cd <folder name>, then for the theme and icons, type ./install.sh
 
@@ -20,4 +23,3 @@ What's new in version 26.4:
     Auto-installation script: You can now deploy the entire project with just a couple of commands in the terminal.
 
 Gnomintosh 26 — make your Linux elegant.
-<img width="1920" height="1080" alt="Снимок экрана от 2026-03-26 10-44-03" src="https://github.com/user-attachments/assets/292c0d64-4587-4289-bf42-f207dbeeac7c" />
