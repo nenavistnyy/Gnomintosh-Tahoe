@@ -3,9 +3,7 @@
 
 Take the extension settings shown in the picture.
 Download the theme and icons and unzip them, then go to the terminal and type cd folder name, then for the theme and icons, type ./install.sh
-
-
-To move the config to your PC, enter the command dconf load / < gnome_settings.txt.
+To move the config to your PC, enter the command dconf load / < gnome_settings.txt
 
 
 
