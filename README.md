@@ -5,6 +5,9 @@ Take the extension settings shown in the picture.
 Download the theme and icons and unzip them, then go to the terminal and type cd folder name, then for the theme and icons, type ./install.sh
 
 
+To move the config to your PC, enter the command dconf load / < gnome_settings.txt.
+
+
 
 Gnomintosh 26
 — is a project for deeply customizing the GNOME desktop environment, transforming your Linux distribution into the most aesthetically pleasing and functional replica of macOS. It’s not just a set of icons, but a comprehensive interface overhaul for those who appreciate Apple’s style but choose the freedom of Linux.
