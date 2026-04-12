@@ -26,4 +26,4 @@ What's new in version 26.4:
     Window Snapping: Improved window management inspired by macOS logic, but with the power of Linux tiling.
     Auto-installation script: You can now deploy the entire project with just a couple of commands in the terminal.
 
-Gnomintosh 26 — make your Linux elegant.
+Gnomintosh Tahoe — make your Linux elegant.
