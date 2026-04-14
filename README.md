@@ -10,9 +10,9 @@ To move the config to your PC, enter the command. dconf load / < gnome_settings.
 
 
 
-Gnomintosh 26
+Gnomintosh Tahoe
 — is a project for deeply customizing the GNOME desktop environment, transforming your Linux distribution into the most aesthetically pleasing and functional replica of macOS. It’s not just a set of icons, but a comprehensive interface overhaul for those who appreciate Apple’s style but choose the freedom of Linux.
-Key features of Gnomintosh 26.4:
+Key features of Gnomintosh Tahoe:
 
     Perfect design: Updated GTK4/libadwaita themes with support for the “glass” effect (Mica/Acrylic) and dynamic blur.
     The Dock Itself: A perfectly tuned Dash-to-Dock panel with smooth animations and support for system indicators.
