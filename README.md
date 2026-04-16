@@ -6,7 +6,7 @@ Download the theme and icons and unzip them, then go to the terminal and type cd
 
 
 
-To move the config to your PC, enter the command. dconf load / < gnome_settings.txt
+To transfer extensions from the config, download it and enter - dconf load /org/gnome/shell/extensions/ < gnome_extensions.conf
 
 
 
