@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Screenshot From 2026-03-26 22-35-47" src="https://github.com/user-attachments/assets/874fea1d-1b2d-4b52-9ab6-852f2b8bffa4" />
+<img width="1920" height="1080" alt="Screenshot From 2026-04-16 19-40-34" src="https://github.com/user-attachments/assets/1f2542c2-13e4-407d-8a3a-dd288bf8cfd4" />
+
 
 
 Take the extension settings shown in the picture.
@@ -20,7 +21,7 @@ Key features of Gnomintosh Tahoe:
     Control Center: Redesigned GNOME Shell quick settings that mimic the Control Center from the latest versions of macOS.
     Icons: Full icon integration with high-resolution support (Retina-ready).
 
-What's new in version 26.4:
+What's new in version 26.4.1:
 
     Optimization for GNOME 49/50: Full compatibility with the latest versions of GNOME without crashes or graphical bugs.
     Window Snapping: Improved window management inspired by macOS logic, but with the power of Linux tiling.
