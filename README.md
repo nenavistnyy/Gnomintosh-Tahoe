@@ -3,8 +3,7 @@
 
 
 
-Take the extension settings shown in the picture.
-Download the theme and icons and unzip them, then go to the terminal and type cd folder name, then for the theme and icons, type ./install.sh
+Below there will be links with icons and themes. Download them according to the instructions on the same page where the icons and themes are. Then apply them.
 
 
 
